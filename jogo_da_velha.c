@@ -2,6 +2,8 @@
 #include <string.h>
 #include <ctype.h>
 
+//teste
+
 int main()
 {
     char x = 'X';
